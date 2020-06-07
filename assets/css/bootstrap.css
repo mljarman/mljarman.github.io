@@ -1504,6 +1504,8 @@ pre code {
     width: 41.66666666666667%;
   }
   .col-lg-4 {
+    margin: 0 auto;
+    max-width: 33.33333333333333%;
     width: 33.33333333333333%;
   }
   .col-lg-3 {
